@@ -16,10 +16,11 @@
         <h1>EZEKIEL OJERIO'S BIOGRAPHY</h1>
     <?php
     echo "Name: Ezekiel C. Ojerio<br>";
-    echo "Birthday: November 23, 2001<br>";
     echo "Age: 19<br>";
+    echo "Studies: Currently studying in University of Makati<br>";
+    echo "Birthday: November 23, 2001<br>";
     echo "Birthplace: Makati City<br>";
-    echo "Hobbies: Computer Games, Reading, Chess and Puzzle games";
+    echo "Hobbies: Computer Games, Biking, Reading, Chess and Puzzle games";
     ?>
     </div>
 </body>
